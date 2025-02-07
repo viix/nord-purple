@@ -17,5 +17,13 @@
         "path": "./themes/nord-purple-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viix/nord-purple"
+  },
+  "homepage": "https://github.com/viix/nord-purple",
+  "bugs": {
+    "url": "https://github.com/viix/nord-purple/issues"
   }
 }
