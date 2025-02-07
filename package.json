@@ -14,7 +14,7 @@
       {
         "label": "nord purple",
         "uiTheme": "vs-dark",
-        "path": "./themes/nord purple-color-theme.json"
+        "path": "./themes/nord-purple-color-theme.json"
       }
     ]
   }
