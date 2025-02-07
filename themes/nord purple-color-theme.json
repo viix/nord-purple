@@ -35,7 +35,9 @@
 	  "statusBarItem.remoteBackground": "#4B4560",
 	  "statusBarItem.remoteForeground": "#D8D8E0",
 	  "list.activeSelectionBackground": "#5A5370",
-	  "list.inactiveSelectionBackground": "#4B4560"
+	  "list.inactiveSelectionBackground": "#4B4560",
+	  "quickInput.background": "#4B4560",
+	  "quickInput.foreground": "#D8D8E0",
 	},
 	"tokenColors": [
 	  {
