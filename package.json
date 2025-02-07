@@ -1,0 +1,21 @@
+{
+  "name": "nord-purple",
+  "displayName": "nord purple",
+  "description": "purple version of nord",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nord purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord purple-color-theme.json"
+      }
+    ]
+  }
+}
